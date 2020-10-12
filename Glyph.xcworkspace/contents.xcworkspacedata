@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:Examples"
+      name = "Examples">
+      <FileRef
+         location = "group:avplayer_3g2.json">
+      </FileRef>
+      <FileRef
+         location = "group:avplayer_3gp.json">
+      </FileRef>
+      <FileRef
+         location = "group:avplayer_avi.json">
+      </FileRef>
+      <FileRef
+         location = "group:avplayer_mov.json">
+      </FileRef>
+      <FileRef
+         location = "group:avplayer_mp4.json">
+      </FileRef>
+      <FileRef
+         location = "group:avplayer_mpg.json">
+      </FileRef>
+      <FileRef
+         location = "group:button.json">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/smorey2/_GITHUB/bclnet/Glyph/Examples/example.json">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/smorey2/_GITHUB/bclnet/Glyph/Examples/example2.json">
+      </FileRef>
+      <FileRef
+         location = "group:image.json">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:README.md">
    </FileRef>
